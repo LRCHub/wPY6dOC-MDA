@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sailor Song",
+  "base_artist": "Gigi Perez",
+  "createdAt": "2026-02-06T06:48:52.357930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/01_Sailor_Song_Regina_Spektor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "The Felice Brothers",
+      "has_synced": true,
+      "path": "select/02_Sailor_Song_The_Felice_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/03_Sailor_Song_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/04_Sailor_Song_Regina_Spektor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "Rickie Lee Jones",
+      "has_synced": false,
+      "path": "select/05_Sailor_Song_Rickie_Lee_Jones.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Sailor Song",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/06_The_Sailor_Song_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Sailor-Song",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/07_The_Sailor-Song_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The sailor song",
+      "artist": "ToyBox",
+      "has_synced": false,
+      "path": "select/08_The_sailor_song_ToyBox.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Sailor Song",
+      "artist": "Toy‐Box",
+      "has_synced": true,
+      "path": "select/09_The_Sailor_Song_Toy‐Box.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sailor Song (Live In London)",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/10_Sailor_Song_(Live_In_London)_Regina_Spektor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/11_Sailor_Song_Regina_Spektor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Sailor Song",
+      "artist": "Autoheart",
+      "has_synced": true,
+      "path": "select/12_The_Sailor_Song_Autoheart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "Lera Lynn",
+      "has_synced": true,
+      "path": "select/13_Sailor_Song_Lera_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sailor Song",
+      "artist": "Oracle Sisters",
+      "has_synced": true,
+      "path": "select/14_Sailor_Song_Oracle_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sailor Song (2005 remaster)",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/15_Sailor_Song_(2005_remaster)_Regina_Spektor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "has_synced": false,
+      "path": "select/pl_01_Sailor_Song_Gigi_Perez.txt"
+    }
+  ]
+}
